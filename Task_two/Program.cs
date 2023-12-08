@@ -10,3 +10,15 @@ Console.WriteLine(sum2);
 double d1 = 5.5;
 double sum3 = i1 + d1;
 Console.WriteLine(sum3);
+
+int product = i1 * i2;
+double product2 = i1 * d1;
+Console.WriteLine(product);
+Console.WriteLine(product2);
+
+int quotinent = i1 / i2;
+Console.WriteLine(quotinent);
+
+d1 = 6;
+double quotinent2 = i1 / d1;
+Console.WriteLine(quotinent2);
